@@ -6,3 +6,6 @@
 /Temp
 /Library
 /.vs
+/obj/Debug
+/Assembly-CSharp.csproj
+/Git Demo.sln
